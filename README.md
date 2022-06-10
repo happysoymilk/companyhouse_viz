@@ -1,4 +1,4 @@
-# companyhouse_viz
+# Company House Visualisation
 Unveal the uunderlying pattern of over 2m UK companies
 
 Main file:
